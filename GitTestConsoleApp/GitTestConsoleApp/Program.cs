@@ -10,6 +10,8 @@ namespace GitTestConsoleApp {
             Console.WriteLine("Hello World...");
             Console.ReadLine();
 
+            Console.WriteLine("Hi New Feature 1");
+
         }
     }
 }
