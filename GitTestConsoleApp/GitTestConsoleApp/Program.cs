@@ -9,12 +9,10 @@ namespace GitTestConsoleApp {
         static void Main(string[] args) {
             Console.WriteLine("Hello World...");
             Console.WriteLine("Add Fis Special Character Here.....");
-            Console.WriteLine("Hot Fix.....");
             Console.ReadLine();
 
             Console.WriteLine("Hi New Feature 1");
             Console.WriteLine("Send To Email");
-            Console.WriteLine("Send To Email again");
 
         }
     }
