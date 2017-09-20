@@ -11,6 +11,8 @@ namespace GitTestConsoleApp {
             Console.WriteLine("Add Fis Special Character Here.....");
             Console.ReadLine();
 
+            Console.WriteLine("Hi New Feature 1");
+
         }
     }
 }
