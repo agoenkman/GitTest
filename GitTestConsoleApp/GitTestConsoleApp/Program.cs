@@ -14,6 +14,7 @@ namespace GitTestConsoleApp {
 
             Console.WriteLine("Hi New Feature 1");
             Console.WriteLine("Send To Email");
+            Console.WriteLine("Send To Email again");
 
         }
     }
