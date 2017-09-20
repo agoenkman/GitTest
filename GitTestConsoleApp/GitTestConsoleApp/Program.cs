@@ -13,6 +13,7 @@ namespace GitTestConsoleApp {
             Console.ReadLine();
 
             Console.WriteLine("Hi New Feature 1");
+            Console.WriteLine("Send To Email");
 
         }
     }
